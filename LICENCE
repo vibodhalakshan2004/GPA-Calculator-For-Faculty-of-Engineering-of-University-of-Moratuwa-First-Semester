@@ -1,0 +1,16 @@
+
+---
+
+## **How to Add to GitHub**
+1. Create the folder **`gpa-calculator`**.
+2. Save **`gpa_calculator.py`** and **`README.md`** in it.
+3. Take a screenshot of your running app and save it as **`screenshot.png`** in the same folder.
+4. Run these commands:
+```bash
+cd gpa-calculator
+git init
+git add .
+git commit -m "Initial commit - GPA Calculator"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/gpa-calculator.git
+git push -u origin main
