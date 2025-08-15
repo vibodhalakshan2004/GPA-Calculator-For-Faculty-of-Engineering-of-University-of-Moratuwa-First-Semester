@@ -1,2 +1,24 @@
-# GPA-Calculator-For-Faculty-of-Engineering-of-University-of-Moratuwa-First-Semester
-Tkinter GPA calculator for University of Moratuwa – Engineering Faculty (Semester 1). Weighted by official credits, with a modern ttk UI.
+# 🎓 GPA Calculator (Tkinter)
+
+A simple **GPA Calculator** built with Python's Tkinter library.  
+Select grades from dropdowns, click "Calculate GPA", and see your result instantly.
+
+---
+
+## 📌 Features
+✅ Dropdowns for grade selection  
+✅ Calculates GPA based on predefined credits  
+✅ Clean & modern UI using `ttk.Style()`  
+✅ Built with only Python (no extra libraries required)  
+
+---
+
+## 🛠 Requirements
+- Python 3.x  
+- Tkinter (comes pre-installed with Python)  
+
+---
+
+## 🚀 How to Run
+```bash
+python gpa_calculator.py
