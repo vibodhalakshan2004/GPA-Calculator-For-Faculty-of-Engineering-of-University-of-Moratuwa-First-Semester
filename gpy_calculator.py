@@ -69,7 +69,10 @@ button = ttk.Button(text='Calculate GPA', command=calculate_gpa)
 button.grid(row=6, column=0, pady=10)
 
 # Create a Label
-label = ttk.Label(text="GPA: --")
-label.grid(row=6, column=1)
+
 
 root.mainloop()
+
+#new comment
+
+v=67
